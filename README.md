@@ -1,84 +1,64 @@
-#This Is New One
+# asdsadaslkdjslk
 
-##Opening
+## Opening
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+aklsdjlsakd
 
-Incident Owner: Shakir Ullah Khan 
+Incident Owner: kasljdaslkjd 
 
-Director: Usman Khan 
+Director: askldjaslkdj 
 
-Licensed M.E: Asndasndsan 
+Licensed M.E: salksdjasd 
 
-Attendees: s,mdnasnd,mands 
+Attendees: saldkjsad 
 
-##Ticket
+## Ticket
 
-Link: google.com
+Link: asaslkdjasd
 
-##Timeline
+## Timeline
 
-###1-Dec-2017 12:00 PM
+### 1-Dec-2017 12:00 PM
 
-- sa,.kdjsa,djsalkjdlkasjdklajsdlkjsad
-
-- http://i.imgur.com/ogxNxWn.jpg
-
-- stackoverflow.com/questions/8188645/javascript-regex-to-match-a-url-in-a-field-of-text
-
-- https://s3.amazonaws.com/opc-assets/1486659322443.png
-
-- https://s3.amazonaws.com/opc-assets/1486659322443.png
-
-- sa,dsan,dmsan,dmasn,ndad
-
-- https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png
-
-- https://upload.wikimedia.org/wikipedia/commons/c/c5/Polarlicht_2_kmeans_16_large.png
-
-- https://www.w3schools.com/css/img_fjords.jpg
-
-###1-Dec-2017 1:59 AM
-
-- https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png
-
-###1-Jan-2017 1:59 AM
-
-- aslaslkahsdkjashdkjashdkjashdkjashdakjshdakjhdsakjh
+- asd,s.a,dlasjd
 
 
-##Issue Field Metrics
+## Issue Field Metrics
 
-Total Outage Minutes: 5 Minutes
+Total Outage Minutes: askdj
 
-Total Degradation Minutes: 5 Minuts
+Total Degradation Minutes: lkaslkjdaslkj
 
-Subsystem Degradation Minutes: as,mdn,
+Subsystem Outage Minutes: aslkjd
 
-Time to Issue Identification: Sa,Mdna,As,Mdnasmdnsm,Adnasmndmasndmsand,Msand,Mnasmdnasmnd,Masnds,Mand,Ma
+Subsystem Degradation Minutes: laskdj
 
-Issue Alerting: XXX reported problem
+Time to Issue Identification: lksadj
 
-User Base Affected: Free Users
+Issue Alerting: Customer reported problem
 
-Total Remediation Minutes: asdsadsad
+User Base Affected: All Users
+
+Total Remediation Minutes: aslkdj
 
 Proximal Cause: Latent
 
-SubSystem: asdada
+SubSystem: asldj
 
-Taxonomic Reason(s) for ISSUE: sadsadsad
+Taxonomic Reason(s) for ISSUE: aslskdjaslkj
 
 
-##Root Cause Analysis
+## Root Cause Analysis
 
-Root Causes: Not fount yet
+Root Cause: salkdj
 
-Impact of Repeat: asdsadasd
+Probability Repeated: laskdkjd
 
-Defect Remediations: asdasdasd
+Impact of Repeat: lsadkj
 
-Escape Prevention Remediations: sdasdsadasddasdad
+Defect Remediations: lasdkj
 
-Production Detection Remediation: adasdsadadasd
+Escape Prevention Remediations: laskdkj
+
+Production Detection Remediation: salkjdaslkjd
 
