@@ -1,64 +1,64 @@
-# asdsadaslkdjslk
+# salkjdklajsdhjkh
 
 ## Opening
 
-aklsdjlsakd
+sasm,dnas,mdnasm,dn
 
-Incident Owner: kasljdaslkjd 
+Incident Owner: asm,sdnas,dmn 
 
-Director: askldjaslkdj 
+Director: asdmnsa,mdn 
 
-Licensed M.E: salksdjasd 
+Licensed M.E: asm,adnsa,mdn 
 
-Attendees: saldkjsad 
+Attendees: asmdnas,mdn 
 
 ## Ticket
 
-Link: asaslkdjasd
+Link: asm,dnas,mdnas,mdnas,mdn
 
 ## Timeline
 
-### 1-Dec-2017 12:00 PM
+### 1-Dec-2017 1:00 PM
 
-- asd,s.a,dlasjd
+- sa.,djadlkjlsadjqwljeqlwkjelqwe
 
 
 ## Issue Field Metrics
 
-Total Outage Minutes: askdj
+Total Outage Minutes: sakdnjasljdnkj
 
-Total Degradation Minutes: lkaslkjdaslkj
+Total Degradation Minutes: q`
 
-Subsystem Outage Minutes: aslkjd
+Subsystem Outage Minutes: sam,dnas,mdn
 
-Subsystem Degradation Minutes: laskdj
+Subsystem Degradation Minutes: sam,dnsa,
 
-Time to Issue Identification: lksadj
+Time to Issue Identification: asam,dns
 
-Issue Alerting: Customer reported problem
+Issue Alerting: Active Monitoring
 
-User Base Affected: All Users
+User Base Affected: Free Users
 
-Total Remediation Minutes: aslkdj
+Total Remediation Minutes: as,jdaskjdhqukhwkq
 
-Proximal Cause: Latent
+Proximal Cause: Hardware Failure
 
-SubSystem: asldj
+SubSystem: asndkjashdkjsahdjksa
 
-Taxonomic Reason(s) for ISSUE: aslskdjaslkj
+Taxonomic Reason(s) for ISSUE: asndkjashndkjhdskajhdkad
 
 
 ## Root Cause Analysis
 
-Root Cause: salkdj
+Root Cause: sa,kndjsandjkaskjd
 
-Probability Repeated: laskdkjd
+Probability Repeated: sakdjlkjashdjkashkd
 
-Impact of Repeat: lsadkj
+Impact of Repeat: askdnjasj
 
-Defect Remediations: lasdkj
+Defect Remediations: amasdnas,nd,
 
-Escape Prevention Remediations: laskdkj
+Escape Prevention Remediations: asm,dnsad
 
-Production Detection Remediation: salkjdaslkjd
+Production Detection Remediation: as,mdna,smdnm,asnd,
 
