@@ -83,7 +83,25 @@ Impact of Repeat: asdsdasd
 
 | Description | Owner | Effort Size | Ticket |
 | --- | --- | --- | --- |
+| asdaksljv k lkjlkj ljk lkkj lkj lkkj lkkj lkkj lk kjl jl kdalksjdlkasjdlkasjdlkasjd alkjj lkavjlk j lk jl jlk  j lkjlkjlkj lkj lkj lkj lkj lkj lkj lkj lj lkj kl lkj lkj lkkj lkj lkj lk kjkl kjl  lkjlkjklj  lkj | asdd | M | sadasdasd |
 | asd | asdd | M | sadasdasd |
 | asd | asdd | M | sadasdasd |
 | asd | asdd | M | sadasdasd |
-| asd | asdd | M | sadasdasd |
+
+
+### Escape prevention Remediations
+
+
+| Description | Owner | Effort Size | Ticket |
+| --- | --- | --- | --- |
+| sadasdsa | sadsad | L | ssadsad |
+| sadasdsa | sadsad | L | ssadsad |
+| sadasdsa | sadsad | L | ssadsadj |
+
+
+### Defect Remediations
+
+
+| Description | Owner | Effort Size | Ticket |
+| --- | --- | --- | --- |
+| sadasdasd | sadsad | XXL | sadsadasd |
