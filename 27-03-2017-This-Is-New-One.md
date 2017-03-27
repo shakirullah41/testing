@@ -2,7 +2,7 @@
 
 ## Opening
 
-Someli
+Something
 
 Incident Owner: j 
 
