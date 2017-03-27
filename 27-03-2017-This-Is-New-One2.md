@@ -2,7 +2,7 @@
 
 ## Opening
 
-Something
+Somethingdddd
 
 Incident Owner: j 
 
@@ -84,7 +84,6 @@ Impact of Repeat: asdsdasd
 | Description | Owner | Effort Size | Ticket |
 | --- | --- | --- | --- |
 | asdaksljv k lkjlkj ljk lkkj lkj lkkj lkkj lkkj lk kjl jl kdalksjdlkasjdlkasjdlkasjd alkjj lkavjlk j lk jl jlk  j lkjlkjlkj lkj lkj lkj lkj lkj lkj lkj lj lkj kl lkj lkj lkkj lkj lkj lk kjkl kjl  lkjlkjklj  lkj | asdd | M | sadasdasd |
-| asd | asdd | M | sadasdasd |
 | asd | asdd | M | sadasdasd |
 | asd | asdd | M | sadasdasd |
 
