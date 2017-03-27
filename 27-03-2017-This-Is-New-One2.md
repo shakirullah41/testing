@@ -74,3 +74,28 @@ Probability Repeated: sdsadsad
 
 Impact of Repeat: asdsdasd
 
+
+## Remediations
+
+
+### Production Detection Remediations
+
+
+
+| Description | Owner | Effort Size | Ticket |
+
+
+| --- | --- | --- | --- |
+
+
+| asd | asdd | M | sadasdasd |
+
+
+| asd | asdd | M | sadasdasd |
+
+
+| asd | asdd | M | sadasdasd |
+
+
+| asd | asdd | M | sadasdasd |
+
