@@ -81,4 +81,9 @@ Impact of Repeat: asdsdasd
 ### Production Detection Remediations
 
 
-| Description | Owner | Effort Size | Ticket || --- | --- | --- | --- || asd | asdd | M | sadasdasd || asd | asdd | M | sadasdasd || asd | asdd | M | sadasdasd || asd | asdd | M | sadasdasd |
+| Description | Owner | Effort Size | Ticket |
+| --- | --- | --- | --- |
+| asd | asdd | M | sadasdasd |
+| asd | asdd | M | sadasdasd |
+| asd | asdd | M | sadasdasd |
+| asd | asdd | M | sadasdasd |
